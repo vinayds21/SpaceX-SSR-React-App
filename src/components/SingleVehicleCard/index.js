@@ -30,7 +30,18 @@ const SingleVehicleCard = ({ launch }) => (
             </div>
             <div>
                 <strong>Successful Landing:{' '}</strong> 
-                <span>{ launch.rocket.first_stage.cores[0].land_success ? 'true' : 'false'}</span>
+                {/* <span>{ launch.rocket.first_stage.cores[0].land_success ? 'true' : 'false'}</span> */}
+                <span>
+                {  
+                    launch.rocket.first_stage.cores.length
+                        ? launch.rocket.first_stage.cores[0].land_success
+                            ? "true"
+                            : launch.rocket.first_stage.cores[0].land_success === false
+                            ? "false"
+                            : "Not Available"
+                        : "Not Available"
+                }
+                </span>
             </div>
         </div>
     </div>
