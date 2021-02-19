@@ -2,10 +2,22 @@ React-SSR Application
 
 <h4>Project - Responsive React-SSR Application For SpaceX Launch Program apllication with Filters</h4>
 
+<h4>Highligts</h4>
+<ul>
+  <li>Server Side Rendring</li>
+  <li>Used React Functional Components</li>
+  <li>ES6 Coding style</li>
+  <li>Used ESlint</li>
+</ul>
+
 <h4>Functionality/Requirement Coverage</h4>
 <ul>
   <li>Responsive application (Mobile, Web and Tablets) to show all the vehicle launches by SpaceX</li>
   <li>Year and Successful Launch Filter Implemeneted</li>
+</ul>
+<ul>
+  <li><a href="https://warm-wave-69333.herokuapp.com/" target="_blank">View Demo</a></li>
+  <li><a href="https://github.com/vinayds21/SpaceX-SSR-React-App" target="_blank">GitHub Reo</a></li>
 </ul>
 
 <h4>Results from Light House Testing</h4>
