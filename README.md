@@ -15,8 +15,8 @@ React-SSR Application
   <li>Accessibility 100</li>
   <img src="https://ik.imagekit.io/zbr37ybuqiv/Screenshot_2021-02-19_at_1.15.50_PM_hdYDnTN4W.png" />
   <li>Best Practices 100</li>
-  <img src="https://ik.imagekit.io/zbr37ybuqiv/Screenshot_2021-02-19_at_1.16.01_PM_NFwoPn_abi.png" />
   <li>SEO 100</li>
+  <img src="https://ik.imagekit.io/zbr37ybuqiv/Screenshot_2021-02-19_at_1.16.01_PM_NFwoPn_abi.png" />
 </ul>
 
 <h4>Steps to run the code</h4>
