@@ -18,7 +18,7 @@ React-SSR Application
 </ul>
 <ul>
   <li><a href="https://warm-wave-69333.herokuapp.com/" target="_blank">View Demo</a></li>
-  <li><a href="https://github.com/vinayds21/SpaceX-SSR-React-App" target="_blank">GitHub Reo</a></li>
+  <li><a href="https://github.com/vinayds21/SpaceX-SSR-React-App" target="_blank">GitHub Repo</a></li>
 </ul>
 
 <h4>Results from Light House Testing</h4>
