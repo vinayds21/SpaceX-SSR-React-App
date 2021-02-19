@@ -10,10 +10,13 @@ React-SSR Application
 
 <h4>Results from Light House Testing</h4>
 <ul>
-  <li>Performance 74</li>
-  <li>Accessibility 94</li>
-  <li>Best Practices 93</li>
-  <li>SEO 90</li>
+  <li>Performance 82</li>
+  <img src="https://ik.imagekit.io/zbr37ybuqiv/Screenshot_2021-02-19_at_1.15.35_PM_yepyswv8TG.png" />
+  <li>Accessibility 100</li>
+  <img src="https://ik.imagekit.io/zbr37ybuqiv/Screenshot_2021-02-19_at_1.15.50_PM_hdYDnTN4W.png" />
+  <li>Best Practices 100</li>
+  <img src="https://ik.imagekit.io/zbr37ybuqiv/Screenshot_2021-02-19_at_1.16.01_PM_NFwoPn_abi.png" />
+  <li>SEO 100</li>
 </ul>
 
 <h4>Steps to run the code</h4>
