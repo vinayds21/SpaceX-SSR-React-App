@@ -1,0 +1,58 @@
+.filterSections{
+    min-width:180px;
+    max-width:200px;
+    width:100%;
+    padding:15px;
+    background:#fff;
+    height: fit-content;
+    margin: 20px 10px 0 20px;
+    border-radius: 20px;
+}
+
+.filter{
+    margin-bottom:30px;
+}
+
+.filterLabel{
+    font-weight:medium;
+    display: block;
+    font-size: 1.17em;
+}
+
+.filter .options{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.filter .options div{
+    width:50%;
+    text-align:center;
+    padding: 3px 6px;
+    box-sizing: border-box;
+}
+
+.filterSections .filter label{
+    border-bottom: 1px solid #bdbdbd;
+    text-align: center;
+    padding-bottom: 5px;
+    display: block;
+    margin: 10px;
+}
+
+.options div span{
+    background: #c5e09a;
+    display: inline-block;
+    padding: 5px 15px;
+    border-radius:10px;
+    cursor:pointer;
+    transition:0.3s
+}
+
+.options div span:hover{
+    background: #cef197;
+}
+
+.options div span.active{
+    background:#7cb90a;
+}

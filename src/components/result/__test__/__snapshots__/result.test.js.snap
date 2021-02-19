@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="result"
+>
+  <img
+    alt="image"
+    src="https://static.dribbble.com/users/503653/screenshots/3143656/fluid-loader.gif"
+  />
+  <div
+    className="text"
+    data-testid="app-status"
+  >
+    Loading...
+  </div>
+</div>
+`;
