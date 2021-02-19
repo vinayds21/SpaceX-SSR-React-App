@@ -1,5 +1,5 @@
 import React from 'react';
-import LaunchList from './components/launch-list';
+import LaunchData from './components/LaunchData';
 import Filters from './components/filters';
 import './App.css';
 
@@ -81,7 +81,7 @@ class App extends React.Component{
             setLaunch={this.changeLaunchFilter}
             setLand={this.changeLandingFilter}
           />
-          <LaunchList
+          <LaunchData
             config={this.state}
             year={year} 
             list={list}

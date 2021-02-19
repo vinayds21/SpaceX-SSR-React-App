@@ -1,7 +1,7 @@
 import React from 'react';
 import './style.css';
 
-const Result = ({ type }) => (
+const VehicleResult = ({ type }) => (
     <div  className='result'>
         <div className='text' data-testid='app-status' >
             { type === 'Loading' ? 'Fetching Data...' : 'No Results Found'}
@@ -9,4 +9,4 @@ const Result = ({ type }) => (
     </div>
 );
 
-export default Result;
+export default VehicleResult;

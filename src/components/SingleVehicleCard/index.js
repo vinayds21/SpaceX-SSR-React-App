@@ -1,7 +1,7 @@
 import React from 'react';
 import './style.css';
 
-const Card = ({ launch }) => (
+const SingleVehicleCard = ({ launch }) => (
     <div className='card'>
         <div className='body'>
             <div className='img'>
@@ -36,4 +36,4 @@ const Card = ({ launch }) => (
     </div>
 )
 
-export default Card;
+export default SingleVehicleCard;
