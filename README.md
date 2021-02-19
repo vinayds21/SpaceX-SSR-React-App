@@ -4,7 +4,7 @@ React-SSR Application
 
 <h4>Highligts</h4>
 <ul>
-  <li>Server Side Rendring</li>
+  <li>Server Side Rendering</li>
   <li>Responsive Design (Compatible with Laptops, Mobiles and Tablets)</li>
   <li>Used React Functional Components</li>
   <li>ES6 Coding style</li>
